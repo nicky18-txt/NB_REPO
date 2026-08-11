@@ -1,0 +1,12 @@
+Materiales
+- 2 ESP32 DevKit V1	
+- BME280
+- RC522 RFID	
+- Tarjetas RFID	
+- OLED SSD1306	
+- LEDs + resistencias
+- Buzzer	
+- Protoboard	
+- Jumpers	
+
+El RC522 se comunica con el ESP32 al igual que el DHT22. Pero el DHT22 y el RC522 no se comunican entre si
